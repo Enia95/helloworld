@@ -1,3 +1,9 @@
 # helloworld
 Enijin repozitorij
-mala izmjena
+
+Nešto o meni:
+PRIVATE
+
+Mala izmjena je napravljena.
+
+
